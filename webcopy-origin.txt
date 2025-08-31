@@ -1,0 +1,224 @@
+Uri: https://bestwebdesignjamaica.com/
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\index.htm
+Content Type: text/html
+
+Uri: https://bestwebdesignjamaica.com/comments/feed/
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://bestwebdesignjamaica.com/feed/
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://bestwebdesignjamaica.com/wp-content/plugins/elementor-pro/assets/css/conditionals/popup.min.css?ver=3.30.0
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-content\plugins\elementor-pro\assets\css\conditionals\popup.min.css
+Content Type: text/css
+
+Uri: https://bestwebdesignjamaica.com/wp-content/plugins/elementor-pro/assets/css/modules/motion-fx.min.css?ver=3.30.0
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-content\plugins\elementor-pro\assets\css\modules\motion-fx.min.css
+Content Type: text/css
+
+Uri: https://bestwebdesignjamaica.com/wp-content/plugins/elementor-pro/assets/css/widget-form.min.css?ver=3.30.0
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-content\plugins\elementor-pro\assets\css\widget-form.min.css
+Content Type: text/css
+
+Uri: https://bestwebdesignjamaica.com/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css?ver=3.30.0
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-content\plugins\elementor-pro\assets\css\widget-nav-menu.min.css
+Content Type: text/css
+
+Uri: https://bestwebdesignjamaica.com/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.30.1
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-content\plugins\elementor\assets\css\conditionals\e-swiper.min.css
+Content Type: text/css
+
+Uri: https://bestwebdesignjamaica.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.30.1
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://bestwebdesignjamaica.com/wp-content/plugins/elementor/assets/css/widget-counter.min.css?ver=3.30.1
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-content\plugins\elementor\assets\css\widget-counter.min.css
+Content Type: text/css
+
+Uri: https://bestwebdesignjamaica.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.30.1
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-content\plugins\elementor\assets\css\widget-heading.min.css
+Content Type: text/css
+
+Uri: https://bestwebdesignjamaica.com/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?ver=3.30.1
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-content\plugins\elementor\assets\css\widget-icon-box.min.css
+Content Type: text/css
+
+Uri: https://bestwebdesignjamaica.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.30.1
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://bestwebdesignjamaica.com/wp-content/plugins/elementor/assets/css/widget-image-carousel.min.css?ver=3.30.1
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-content\plugins\elementor\assets\css\widget-image-carousel.min.css
+Content Type: text/css
+
+Uri: https://bestwebdesignjamaica.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.30.1
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-content\plugins\elementor\assets\css\widget-image.min.css
+Content Type: text/css
+
+Uri: https://bestwebdesignjamaica.com/wp-content/plugins/elementor/assets/css/widget-nested-accordion.min.css?ver=3.30.1
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-content\plugins\elementor\assets\css\widget-nested-accordion.min.css
+Content Type: text/css
+
+Uri: https://bestwebdesignjamaica.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeIn.min.css?ver=3.30.1
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-content\plugins\elementor\assets\lib\animations\styles\fadeIn.min.css
+Content Type: text/css
+
+Uri: https://bestwebdesignjamaica.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInDown.min.css?ver=3.30.1
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-content\plugins\elementor\assets\lib\animations\styles\fadeInDown.min.css
+Content Type: text/css
+
+Uri: https://bestwebdesignjamaica.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInLeft.min.css?ver=3.30.1
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-content\plugins\elementor\assets\lib\animations\styles\fadeInLeft.min.css
+Content Type: text/css
+
+Uri: https://bestwebdesignjamaica.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInRight.min.css?ver=3.30.1
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-content\plugins\elementor\assets\lib\animations\styles\fadeInRight.min.css
+Content Type: text/css
+
+Uri: https://bestwebdesignjamaica.com/wp-content/plugins/elementor/assets/lib/animations/styles/zoomIn.min.css?ver=3.30.1
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-content\plugins\elementor\assets\lib\animations\styles\zoomIn.min.css
+Content Type: text/css
+
+Uri: https://bestwebdesignjamaica.com/wp-content/plugins/elementor/assets/lib/animations/styles/zoomInLeft.min.css?ver=3.30.1
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-content\plugins\elementor\assets\lib\animations\styles\zoomInLeft.min.css
+Content Type: text/css
+
+Uri: https://bestwebdesignjamaica.com/wp-content/plugins/elementor/assets/lib/animations/styles/zoomInRight.min.css?ver=3.30.1
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-content\plugins\elementor\assets\lib\animations\styles\zoomInRight.min.css
+Content Type: text/css
+
+Uri: https://bestwebdesignjamaica.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.43.0
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://bestwebdesignjamaica.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://bestwebdesignjamaica.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://bestwebdesignjamaica.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://bestwebdesignjamaica.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/images/templately/logo-icon.svg
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-content\plugins\essential-addons-for-elementor-lite\assets\admin\images\templately\logo-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://bestwebdesignjamaica.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=6.2.0
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-content\plugins\essential-addons-for-elementor-lite\assets\front-end\css\view\general.min.css
+Content Type: text/css
+
+Uri: https://bestwebdesignjamaica.com/wp-content/plugins/fluentform/assets/css/fluent-forms-elementor-widget.css?ver=6.0.4
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-content\plugins\fluentform\assets\css\fluent-forms-elementor-widget.css
+Content Type: text/css
+
+Uri: https://bestwebdesignjamaica.com/wp-content/plugins/quform/cache/quform.css?ver=1751993252
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-content\plugins\quform\cache\quform.css
+Content Type: text/css
+
+Uri: https://bestwebdesignjamaica.com/wp-content/plugins/widget-google-reviews/assets/css/public-main.css?ver=6.2
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-content\plugins\widget-google-reviews\assets\css\public-main.css
+Content Type: text/css
+
+Uri: https://bestwebdesignjamaica.com/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.4.4
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-content\themes\hello-elementor\assets\css\header-footer.css
+Content Type: text/css
+
+Uri: https://bestwebdesignjamaica.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.4
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-content\themes\hello-elementor\assets\css\reset.css
+Content Type: text/css
+
+Uri: https://bestwebdesignjamaica.com/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.4.4
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-content\themes\hello-elementor\assets\css\theme.css
+Content Type: text/css
+
+Uri: https://bestwebdesignjamaica.com/wp-content/uploads/2024/08/cropped-2-32x32.png
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-content\uploads\2024\08\cropped-2-32x32.png
+Content Type: image/png
+
+Uri: https://bestwebdesignjamaica.com/wp-content/uploads/elementor/css/post-326.css?ver=1752000401
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-content\uploads\elementor\css\post-326.css
+Content Type: text/css
+
+Uri: https://bestwebdesignjamaica.com/wp-content/uploads/elementor/css/post-371.css?ver=1752000401
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-content\uploads\elementor\css\post-371.css
+Content Type: text/css
+
+Uri: https://bestwebdesignjamaica.com/wp-content/uploads/elementor/css/post-5.css?ver=1752000401
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-content\uploads\elementor\css\post-5.css
+Content Type: text/css
+
+Uri: https://bestwebdesignjamaica.com/wp-content/uploads/elementor/css/post-736.css?ver=1752000401
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-content\uploads\elementor\css\post-736.css
+Content Type: text/css
+
+Uri: https://bestwebdesignjamaica.com/wp-content/uploads/elementor/google-fonts/css/manrope.css?ver=1744249588
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-content\uploads\elementor\google-fonts\css\manrope.css
+Content Type: text/css
+
+Uri: https://bestwebdesignjamaica.com/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1744249631
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-content\uploads\elementor\google-fonts\css\montserrat.css
+Content Type: text/css
+
+Uri: https://bestwebdesignjamaica.com/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1744249572
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-content\uploads\elementor\google-fonts\css\poppins.css
+Content Type: text/css
+
+Uri: https://bestwebdesignjamaica.com/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1744249615
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-content\uploads\elementor\google-fonts\css\roboto.css
+Content Type: text/css
+
+Uri: https://bestwebdesignjamaica.com/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1744249582
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-content\uploads\elementor\google-fonts\css\robotoslab.css
+Content Type: text/css
+
+Uri: https://bestwebdesignjamaica.com/wp-content/uploads/essential-addons-elementor/eael-736.css?ver=1725541029
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-content\uploads\essential-addons-elementor\eael-736.css
+Content Type: text/css
+
+Uri: https://bestwebdesignjamaica.com/wp-json/
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://bestwebdesignjamaica.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbestwebdesignjamaica.com%2F
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://bestwebdesignjamaica.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbestwebdesignjamaica.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://bestwebdesignjamaica.com/wp-json/wp/v2/pages/736
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\wp-json\wp\v2\pages\736
+Content Type: application/json
+
+Uri: https://cdn.trustindex.io/loader.js
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\loader.js
+Content Type: text/javascript
+
+Uri: https://lh3.googleusercontent.com/a-/ALV-UjUj91RtWVsUC_GSyuUYIs85J5LbQiJtRLU3u0PqWEU6G7pW9FTD=s128-c0x00000000-cc-rp-mo
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\a-\ALV-UjUj91RtWVsUC_GSyuUYIs85J5LbQiJtRLU3u0PqWEU6G7pW9FTD=s128-c0x00000000-cc-rp-mo
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/a-/AOh14GgW_II61BlA-B_rPq52Md6kQ_77muCDuqZnrCDrIg=s128-c0x00000000-cc-rp-mo
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\a-\AOh14GgW_II61BlA-B_rPq52Md6kQ_77muCDuqZnrCDrIg=s128-c0x00000000-cc-rp-mo
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/a/ACg8ocIu_0CBWxiQ6kYT-z5BPyqkxsvKILbwoYXUFMvrzIHWQRcMR8A=s128-c0x00000000-cc-rp-mo
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\a\ACg8ocIu_0CBWxiQ6kYT-z5BPyqkxsvKILbwoYXUFMvrzIHWQRcMR8A=s128-c0x00000000-cc-rp-mo
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/a/ACg8ocLYMPzC1FlACJnHUcxvMhTbj0Owrc3LQnkbJ_tR8IkfHViKmw=s128-c0x00000000-cc-rp-mo
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\a\ACg8ocLYMPzC1FlACJnHUcxvMhTbj0Owrc3LQnkbJ_tR8IkfHViKmw=s128-c0x00000000-cc-rp-mo
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/a/ACg8ocL_KI45SJ4m_tUJGIZ1ctTRtVd4E86X7J12tB_HzqTDk4_63w=s128-c0x00000000-cc-rp-mo
+File Name: C:\Downloaded Web Sites\bestwebdesignjamaica.com\a\ACg8ocL_KI45SJ4m_tUJGIZ1ctTRtVd4E86X7J12tB_HzqTDk4_63w=s128-c0x00000000-cc-rp-mo
+Content Type: image/png
+
